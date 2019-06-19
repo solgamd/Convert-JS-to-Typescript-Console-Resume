@@ -1,7 +1,7 @@
 {
   "name": "convert-console-resume",
   "version": "1.0.0",
-  "description": "**Practicing Typescript: 2**",
+  "description": "Practicing Typescript: 2",
   "main": "index.js",
   "scripts": {
     "dev": "tsc -w"
