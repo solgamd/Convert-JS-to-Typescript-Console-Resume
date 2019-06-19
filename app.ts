@@ -1,5 +1,5 @@
 
-let person = [          //Is this type argument inference? i.e. no need to 'type' it
+let person: Array<string[]> = [          
     ["Name:", "Megan Solga"],
     ["Career: Jack of All Trades"],
     ["Description: Person who perpetually collects new skillz"],
@@ -7,7 +7,7 @@ let person = [          //Is this type argument inference? i.e. no need to 'type
     
 let interests: string[] = ["cats", "snowboarding", "90s sitcoms", "live music"];
 
-let pastPos = [     //Is this type argument inference? i.e. no need to 'type' it
+let pastPos: Array<string[]> = [    
     ["ILA Vietnam", "English Teacher", "Taught ages 8+, all skill levels, focused on general English and exam preparation."],
     ["PlanOmatic", "Brand Manager", "Managed lots of boring email campaigns, social media BS, and did some cool HTML coding."],
     ["Univ. of MN", "IT Support Consultant", "Worked in a university computer lab and taught students how to print via wifi."],
